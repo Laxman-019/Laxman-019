@@ -26,8 +26,6 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Laxman-019&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 📊 GitHub Stats:
