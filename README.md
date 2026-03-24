@@ -1,11 +1,12 @@
 <!-- Header Banner with Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00B8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+Chourasia;Backend+Developer+from+India;Python+%7C+Django+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00B8FF&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+Chourasia;Full-Stack+Developer;Python+%7C+Java+%7C+React;AI%2FML+Enthusiast;Building+Impactful+Digital+Solutions" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <a href="https://instagram.com/_lx_mn"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/laxman-chourasia-8931a3308"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lxmnchourasia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/_lx_mn"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:lxmnhourasia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Animated Snake (Contribution Graph) -->
