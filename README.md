@@ -1,6 +1,6 @@
 <!-- Header Banner with Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00B8FF&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+Chourasia;Full-Stack+Developer;Python+%7C+Java+%7C+React;AI%2FML+Enthusiast;Building+Impactful+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00B8FF&center=true&vCenter=true&width=580&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+Chourasia;Full-Stack+Developer;Python+%7C+Java+%7C+React;AI%2FML+Enthusiast;Building+Impactful+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
