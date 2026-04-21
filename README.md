@@ -8,7 +8,6 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3000&pause=800&color=00B8FF&center=true&vCenter=true&width=600&lines=🐍+Python+%7C+Django+%7C+REST+APIs;⚛️+React+%7C+TailwindCSS+%7C+Bootstrap;📊+NumPy+%7C+Pandas+%7C+OpenCV+%7C+ML;🚀+Building+scalable+and+impactful+solutions" alt="Typing SVG"/>
 
 </div>
 
@@ -118,6 +117,5 @@ class LaxmanChourasia:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:00b8ff,100:0d1117&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Crafted with passion by <b>Laxman Chourasia</b> · Always building, always learning</sub>
 
 </div>
